@@ -12,7 +12,7 @@
 
 ## Installation:
 - Install the requirements ([NodeJS](https://nodejs.org/en/download/) is required).
-- And install dotnet click x16([DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)
+- And install ([DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64).
 ```
     npm install
 ```
