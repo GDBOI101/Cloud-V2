@@ -20,13 +20,7 @@
 - Redirect to the server and enjoy.
 
 ## Credits:
-Credit to the Project Cloud Dev Team
-
-### Inspirations
-- Aurora
-- Neonite
-- Rift
-
+Credids to GD And !Sky for making the backend
 
 ### APIs used in the backend
 - [Fortnite-API](https://fortnite-api.com/)
