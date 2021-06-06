@@ -2,7 +2,7 @@
 
 <p align='center'>
     <a href='https://nodejs.org/en/download/' align='center'>
-        <img alt='NodeJS' src='https://media.discordapp.net/attachments/835302046592270446/847286989123485706/3.png?width=1005&height=565'>
+        <img alt='NodeJS' src='https://media.discordapp.net/attachments/850045691481030706/851139810927575080/adobespark_adobespark.png'>
     </a>
 </p>
 
@@ -16,8 +16,6 @@
     npm install
 ```
 - Open ``start.bat``, then the backend should be running.
-
-- Redirect to the server and enjoy.
 
 ## Credits:
 Credits to GD And !Sky for making the backend
