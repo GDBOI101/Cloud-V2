@@ -20,7 +20,7 @@
 - Redirect to the server and enjoy.
 
 ## Credits:
-Credids to GD And !Sky for making the backend
+Credits to GD And !Sky for making the backend
 
 ### APIs used in the backend
 - [Fortnite-API](https://fortnite-api.com/)
