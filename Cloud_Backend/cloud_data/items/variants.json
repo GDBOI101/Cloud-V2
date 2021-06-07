@@ -1,0 +1,7008 @@
+[
+    {
+        "id": "CID_839_Athena_Commando_F_HightowerSquash",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_840_Athena_Commando_M_HightowerGrape",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_841_Athena_Commando_M_HightowerWasabi",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_841_Athena_Commando_M_HightowerWasabi",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_842_Athena_Commando_F_HightowerHoneydew",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "active": "Mat1",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_843_Athena_Commando_M_HightowerTomato_Casual",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "active": "Mat1",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_844_Athena_Commando_F_HightowerMango",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "active": "Stage1",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_034_RockerPunk",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_038_BunnyFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_052_HazmatFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_105_GhostPortal",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_133_GuanYu",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_145_AnimalJacketsMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_146_AnimalJacketsFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_149_Wizard",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_150_Witch",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_155_SniperHoodMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_156_SniperHoodFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_163_IceKing",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_171_Rhino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_217_ShinyFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_236_Pirate01Female",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_238_Pirate02Male",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_261_Rooster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_262_BountyHunterFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_311_Multibot",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_316_GraffitiRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_320_RustLordRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_322_VoyagerRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_331_DarkNinjaWhite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_332_FrostMystery",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_339_Syko",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_342_LemonLime",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_356_Punchy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_346_BlackWidowRogue",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_333_Reverb",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_317_KnightRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_315_PizzaPit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_312_Stealth",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_278_VigilanteBoard",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5",
+                    "Mat6",
+                    "Mat7",
+                    "Mat8",
+                    "Mat9",
+                    "Mat10",
+                    "Mat11",
+                    "Mat12",
+                    "Mat13",
+                    "Mat14",
+                    "Mat15",
+                    "Mat16",
+                    "Mat17",
+                    "Mat18",
+                    "Mat19",
+                    "Mat20"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_357_Sleepytime",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_364_LlamaHero",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_359_MeteorManRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_368_RockClimber",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_367_TacticalFishermanMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_369_CrazyEight",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_371_Sheath",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_372_Viper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_378_FishermanFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_382_DarkDinoMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_383_DarkDinoFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_395_Phantom",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_399_SpookyNeon",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_400_HalloweenAlt",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_408_WeepingWoods",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_410_ShirtlessWarpaint",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_426_GalileoKayak_NS67T",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_433_NeonAnimal",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_434_NeonAnimalFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_437_TNTina",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage7",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_445_Elf",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_451_HolidayDeck",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_454_Gummi",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_465_VirtualShadow",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_467_DragonRacer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_472_DesertOpsCamo",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_473_Photographer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_474_DarkHeart",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_476_AgentRogue",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_478_HenchmanTough",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_479_CatBurglar",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_489_TwinDark",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_506_DonutCup",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_517_Splinter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_515_Hostile",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_518_HitmanCase",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_520_CycloneUniverse",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_530_BlackKnightFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_537_TacticalScuba",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_540_Python",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_548_MastermindGhost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_547_HeistGhost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_546_CavalryBanditGhost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_541_Gator",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_534_OceanRider",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_516_RaveNinja",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_514_NeonCatSpy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_511_BadEgg",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_485_BananaAgent",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_477_BuffCat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_475_AgentAce",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_464_MartialArtist",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_458_TheGoldenSkeleton",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_411_BaneFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_370_RebirthMedic",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_265_BattleSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_235_Heist",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_222_AztecFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_221_AztecMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_211_SkullBrite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_199_IceQueen",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_050_Hazmat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_037_BunnyMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_085_SkullTrooper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_102_Rhino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_132_Pirate01Octopus",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_169_VoyagerRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_179_CrazyEight",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_181_RockClimber",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_182_Sheath",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_184_Viper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_194_Agent",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_200_PhotographerFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_203_TwinDarkFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_205_DesertOpsCamo",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_213_BlackKnightFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_219_OceanRiderFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_220_ProfessorPup",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_225_TacticalScubaMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_221_PythonFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_201_TNTinaFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_197_HenchmanMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_193_TheGoldenSkeleton",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_183_TacticalFisherman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Glider_ID_093_AnimalJackets",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_112_GuanYu",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_131_NeonCat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_133_IceKing",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_162_SkullBrite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_164_DragonNinja",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3",
+                    "Emissive4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_195_SpaceBunny",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_206_StrawberryPilot_1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_207_BountyHunter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_211_BunkerMan_1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_220_ForkKnife1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_244_RustRemix1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_245_VoyagerRemix1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_254_Syko",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_257_FrostMystery1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_287_RockClimber1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_290_Sheath1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_292_TacticalFisherman1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_315_BaneFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_336_TNTinaFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_340_DragonRacerFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_350_TheGoldenSkeleton",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_353_AgentAce1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_360_DesertOpsCamoFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_393_NeonCatSpyFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_394_RaveNinjaFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_404_GatorMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_410_OceanRiderFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_413_PythonFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_416_SpaceWandererFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_414_RacerZero",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_412_ProfessorPupMale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_409_MechanicalEngineer1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_402_BlackKnightFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_392_Hostile",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_374_TwinDarkFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_364_PhotographerFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_354_AgentRogue1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_352_VirtualShadowMale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_344_MartialArtistMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_323_PinkTrooperMale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_314_WeepingWoodsMale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_308_SpookyNeonMale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_291_SlurpMonster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_293_Viper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_288_RebirthMedicFemale",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_286_FishermanFemale1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_284_CrazyEight1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_275_Traveler",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_264_LemonLime1H",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_209_BattleSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_150_IceQueen",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_127_Rhino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_122_Witch",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle0",
+                    "Particle1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Pickaxe_ID_109_SkullTrooper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "Trails_ID_082_HolidayGarland",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_022_Athena_Commando_F",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_028_Athena_Commando_F",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_030_Athena_Commando_M_Halloween",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_031_Athena_Commando_M_Retro",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_038_Athena_Commando_M_Disco",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_043_Athena_Commando_F_Stealth",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_049_Athena_Commando_M_HolidayGingerbread",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_050_Athena_Commando_M_HolidayNutcracker",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_051_Athena_Commando_M_HolidayElf",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_048_Athena_Commando_F_HolidayGingerbread",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_080_Athena_Commando_M_Space",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_083_Athena_Commando_F_Tactical",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_087_Athena_Commando_F_RedSilk",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_099_Athena_Commando_F_Scathach",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_103_Athena_Commando_M_Bunny",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_115_Athena_Commando_M_CarbideBlue",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_127_Athena_Commando_M_Hazmat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_130_Athena_Commando_M_Merman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_145_Athena_Commando_M_SoccerDudeB",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_149_Athena_Commando_F_SoccerGirlB",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_147_Athena_Commando_M_SoccerDudeD",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_157_Athena_Commando_M_StarsAndStripes",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_161_Athena_Commando_M_Drift",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_188_Athena_Commando_F_StreetRacerWhite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_190_Athena_Commando_M_StreetRacerWhite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_199_Athena_Commando_F_BlueSamurai",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_207_Athena_Commando_M_FootballDudeA",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_209_Athena_Commando_M_FootballDudeC",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_211_Athena_Commando_F_FootballGirlB",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_238_Athena_Commando_F_FootballGirlD",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_245_Athena_Commando_F_DurrburgerPjs",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_254_Athena_Commando_M_Zombie",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_265_Athena_Commando_F_AnimalJackets",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_270_Athena_Commando_F_Witch",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_271_Athena_Commando_F_SushiChef",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_269_Athena_Commando_M_Wizard",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_275_Athena_Commando_M_SniperHood",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_278_Athena_Commando_M_Yeti",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_281_Athena_Commando_F_SnowBoard",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_287_Athena_Commando_M_ArcticSniper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_290_Athena_Commando_F_BlueBadass",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_304_Athena_Commando_M_Gnome",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_332_Athena_Commando_M_Prisoner",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_341_Athena_Commando_F_SkullBrite",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_346_Athena_Commando_M_DragonNinja",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3",
+                    "Emissive4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_348_Athena_Commando_F_Medusa",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_350_Athena_Commando_M_MasterKey",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_352_Athena_Commando_F_Shiny",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_358_Athena_Commando_M_Aztec",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_373_Athena_Commando_M_Pirate01",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_385_Athena_Commando_M_PilotSkull",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_396_Athena_Commando_F_Swashbuckler",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_398_Athena_Commando_M_TreasureHunterFashion",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_403_Athena_Commando_M_Rooster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_407_Athena_Commando_M_BattleSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_408_Athena_Commando_F_StrawberryPilot",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_409_Athena_Commando_M_BunkerMan",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_416_Athena_Commando_M_AssassinSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_421_Athena_Commando_M_MaskedWarrior",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_424_Athena_Commando_M_Vigilante",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_423_Athena_Commando_F_Painter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_427_Athena_Commando_M_DemonHunter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_435_Athena_Commando_M_MunitionsExpertGreenPlastic",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_440_Athena_Commando_F_BullseyeGreenPlastic",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_454_Athena_Commando_M_GlowBro",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_462_Athena_Commando_M_HeistSummer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_467_Athena_Commando_M_WeirdObjectsPolice",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_471_Athena_Commando_F_Bani",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_480_Athena_Commando_F_Bubblegum",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_483_Athena_Commando_F_GraffitiRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_484_Athena_Commando_M_KnightRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_486_Athena_Commando_F_StreetRacerDrift",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_488_Athena_Commando_M_RustRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_490_Athena_Commando_M_BlueBadass",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_497_Athena_Commando_F_WildWest",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_506_Athena_Commando_M_MilitiaMascotTomato",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_508_Athena_Commando_M_Syko",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_516_Athena_Commando_M_BlackWidowRogue",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_520_Athena_Commando_M_PaddedArmor",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_525_Athena_Commando_F_LemonLime",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_530_Athena_Commando_F_BlackMonday_1BV6J",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_532_Athena_Commando_F_Punchy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_535_Athena_Commando_M_Traveler",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_540_Athena_Commando_M_MeteorManRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4",
+                    "Particle5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_543_Athena_Commando_M_LlamaHero",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_554_Athena_Commando_F_MilitiaMascotCuddle",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_547_Athena_Commando_F_Meteorwoman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4",
+                    "Particle5"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_565_Athena_Commando_F_RockClimber",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_567_Athena_Commando_F_RebirthMedic",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_571_Athena_Commando_F_Sheath",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_572_Athena_Commando_M_Viper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_578_Athena_Commando_F_Fisherman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_581_Athena_Commando_M_DarkDino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_582_Athena_Commando_F_DarkDino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_586_Athena_Commando_F_PunkDevil",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_598_Athena_Commando_M_Mastermind",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_600_Athena_Commando_M_SkeletonHunter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_601_Athena_Commando_F_Palespooky",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_603_Athena_Commando_M_SpookyNeon",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_608_Athena_Commando_F_ModernWitch",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_611_Athena_Commando_M_WeepingWoods",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_615_Athena_Commando_F_Bane",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_624_Athena_Commando_M_TeriyakiWarrior",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_625_Athena_Commando_F_PinkTrooper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_639_Athena_Commando_F_NeonAnimal",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_650_Athena_Commando_F_HolidayPJ_B",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_652_Athena_Commando_F_HolidayPJ_D",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_681_Athena_Commando_M_MartialArtist",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_685_Athena_Commando_M_TundraYellow",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_688_Athena_Commando_F_AgentRogue",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_692_Athena_Commando_M_HenchmanTough",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_694_Athena_Commando_M_CatBurglar",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_705_Athena_Commando_M_Donut",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_708_Athena_Commando_M_SoldierSlurp",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_710_Athena_Commando_M_FishheadSlurp",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_712_Athena_Commando_M_Spy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_715_Athena_Commando_F_TwinDark",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_722_Athena_Commando_M_TeriyakiFishAssassin",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_735_Athena_Commando_M_Informer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_747_Athena_Commando_M_BadEgg",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_748_Athena_Commando_F_Hitman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_751_Athena_Commando_F_NeonCatSpy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_754_Athena_Commando_F_RaveNinja",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_755_Athena_Commando_M_Splinter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_765_Athena_Commando_F_SpaceWanderer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_771_Athena_Commando_F_OceanRider",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_776_Athena_Commando_M_ProfessorPup",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_778_Athena_Commando_M_Gator",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_785_Athena_Commando_F_Python",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_787_Athena_Commando_M_Heist_Ghost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_788_Athena_Commando_M_Mastermind_Ghost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_786_Athena_Commando_F_CavalryBandit_Ghost",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_777_Athena_Commando_M_RacerZero",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_774_Athena_Commando_M_TacticalScuba",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_772_Athena_Commando_M_Sandcastle",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_770_Athena_Commando_F_MechanicalEngineer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_767_Athena_Commando_F_BlackKnight",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            },
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_761_Athena_Commando_M_CycloneSpace",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_753_Athena_Commando_F_Hostile",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_744_Athena_Commando_F_DuckHero",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_721_Athena_Commando_F_PineappleBandit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_709_Athena_Commando_F_BandolierSlurp",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_704_Athena_Commando_F_LollipopTrickster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_703_Athena_Commando_M_Cyclone",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_701_Athena_Commando_M_BananaAgent",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_696_Athena_Commando_F_DarkHeart",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_695_Athena_Commando_F_DesertOpsCamo",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Particle1",
+                    "Particle2",
+                    "Particle3",
+                    "Particle4"
+                ]
+            },
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "003",
+                    "004",
+                    "005"
+                ]
+            },
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage6",
+                    "Stage7",
+                    "Stage8",
+                    "Stage9",
+                    "Stage10",
+                    "Stage11"
+                ]
+            },
+            {
+                "channel": "Hair",
+                "properties": [
+                    "014",
+                    "015",
+                    "016",
+                    "017"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5",
+                    "Mat6",
+                    "Mat7",
+                    "Mat8",
+                    "Mat17",
+                    "Mat18",
+                    "Mat19",
+                    "Mat20",
+                    "Mat21",
+                    "Mat22",
+                    "Mat23",
+                    "Mat24"
+                ]
+            },
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Mat9",
+                    "Mat10",
+                    "Mat11",
+                    "Mat12",
+                    "Mat13",
+                    "Mat14",
+                    "Mat15",
+                    "Mat16"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3",
+                    "Emissive4",
+                    "Emissive5"
+                ]
+            },
+            {
+                "channel": "Pattern",
+                "properties": [
+                    "001",
+                    "002"
+                ]
+            },
+            {
+                "channel": "Mesh",
+                "properties": [
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_693_Athena_Commando_M_BuffCat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_691_Athena_Commando_F_TNTina",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage7",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_690_Athena_Commando_F_Photographer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_687_Athena_Commando_M_AgentAce",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive1",
+                    "Emissive2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_682_Athena_Commando_M_VirtualShadow",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_684_Athena_Commando_F_DragonRacer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_675_Athena_Commando_M_TheGoldenSkeleton",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_674_Athena_Commando_F_HoodieBandit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_651_Athena_Commando_F_HolidayPJ_C",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_649_Athena_Commando_F_HolidayPJ",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_646_Athena_Commando_F_ElfAttack",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_644_Athena_Commando_M_Cattus",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_642_Athena_Commando_F_ConstellationStar",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_638_Athena_Commando_M_NeonAnimal",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_626_Athena_Commando_M_PinkTrooper",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_614_Athena_Commando_M_MissingLink",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_605_Athena_Commando_M_TourBus",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_599_Athena_Commando_M_Phantom",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_579_Athena_Commando_F_RedRidingRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_570_Athena_Commando_M_SlurpMonster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_566_Athena_Commando_M_CrazyEight",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_564_Athena_Commando_M_TacticalFisherman",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_542_Athena_Commando_F_CarbideFrostMystery",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_531_Athena_Commando_M_Sleepytime",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_505_Athena_Commando_M_MilitiaMascotBurger",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_502_Athena_Commando_F_Reverb",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_501_Athena_Commando_M_FrostMystery",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_498_Athena_Commando_M_WildWest",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_489_Athena_Commando_M_VoyagerRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_487_Athena_Commando_M_DJRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Particle1",
+                    "Particle2"
+                ]
+            },
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_485_Athena_Commando_F_SparkleRemix",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_475_Athena_Commando_M_Multibot",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_469_Athena_Commando_F_BattleSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            },
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4",
+                    "Mat5",
+                    "Mat6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_461_Athena_Commando_M_DriftSummer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_453_Athena_Commando_F_GlowBro",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_425_Athena_Commando_F_CyberRunner",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_422_Athena_Commando_F_MaskedWarrior",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_419_Athena_Commando_M_Pug",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_406_Athena_Commando_M_StormTracker",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_405_Athena_Commando_F_Masako",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_404_Athena_Commando_F_BountyHunter",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_399_Athena_Commando_F_AshtonBoardwalk",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_397_Athena_Commando_F_TreasureHunterFashion",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_391_Athena_Commando_M_HoppityHeist",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_372_Athena_Commando_F_Pirate01",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_359_Athena_Commando_F_Aztec",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_353_Athena_Commando_F_Bandolier",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_351_Athena_Commando_F_FireElf",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_347_Athena_Commando_M_PirateProgressive",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6",
+                    "Stage7",
+                    "Stage8"
+                ]
+            },
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_338_Athena_Commando_M_DumplingMan",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_330_Athena_Commando_F_IceQueen",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_315_Athena_Commando_M_TeriyakiFish",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_310_Athena_Commando_F_StreetGoth",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_308_Athena_Commando_F_FortniteDJ",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_301_Athena_Commando_M_Rhino",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_288_Athena_Commando_M_IceKing",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_286_Athena_Commando_F_NeonCat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage4",
+                    "Stage3",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "Particle",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_279_Athena_Commando_M_TacticalSanta",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_276_Athena_Commando_F_SniperHood",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_264_Athena_Commando_M_AnimalJackets",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_247_Athena_Commando_M_GuanYu",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_246_Athena_Commando_F_Grave",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_242_Athena_Commando_F_Bullseye",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_239_Athena_Commando_M_FootballDudeD",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_237_Athena_Commando_F_Cowgirl",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_230_Athena_Commando_M_Werewolf",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "ClothingColor",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_221_Athena_Commando_M_Clown",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_220_Athena_Commando_F_Clown",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_216_Athena_Commando_F_Medic",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_212_Athena_Commando_F_FootballGirlC",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_210_Athena_Commando_F_FootballGirlA",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_208_Athena_Commando_M_FootballDudeB",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "000",
+                    "001",
+                    "002",
+                    "003",
+                    "004",
+                    "005",
+                    "006",
+                    "007",
+                    "008",
+                    "009",
+                    "010",
+                    "011",
+                    "012",
+                    "013",
+                    "014",
+                    "015",
+                    "016",
+                    "017",
+                    "018",
+                    "019",
+                    "020",
+                    "021",
+                    "022",
+                    "023",
+                    "024",
+                    "025",
+                    "026",
+                    "027",
+                    "028",
+                    "029",
+                    "030",
+                    "031",
+                    "036",
+                    "032",
+                    "033",
+                    "034",
+                    "035"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_206_Athena_Commando_M_Bling",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_198_Athena_Commando_M_BlueSamurai",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_178_Athena_Commando_F_StreetRacerCobra",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_177_Athena_Commando_M_StreetRacerCobra",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_165_Athena_Commando_M_DarkViking",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5",
+                    "Stage6"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_158_Athena_Commando_F_StarsAndStripes",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_151_Athena_Commando_F_SoccerGirlD",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_150_Athena_Commando_F_SoccerGirlC",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_148_Athena_Commando_F_SoccerGirlA",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_146_Athena_Commando_M_SoccerDudeC",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_144_Athena_Commando_M_SoccerDudeA",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "JerseyColor",
+                "properties": [
+                    "Fortnite",
+                    "Argentina",
+                    "Australia",
+                    "Belgium",
+                    "Brazil",
+                    "Canada",
+                    "Colombia",
+                    "Denmark",
+                    "Egypt",
+                    "England",
+                    "France",
+                    "Germany",
+                    "Iceland",
+                    "Italy",
+                    "Ireland",
+                    "Japan",
+                    "Korea",
+                    "Mexico",
+                    "Netherlands",
+                    "NewZealand",
+                    "Nigeria",
+                    "Norway",
+                    "Poland",
+                    "Portugal",
+                    "Russia",
+                    "Saudi",
+                    "Spain",
+                    "Sweden",
+                    "Switzerland",
+                    "Terkey",
+                    "Uruguay",
+                    "USA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_140_Athena_Commando_M_Visitor",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_131_Athena_Commando_M_Warpaint",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_128_Athena_Commando_F_Hazmat",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_116_Athena_Commando_M_CarbideBlack",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Progressive",
+                "properties": [
+                    "Stage0",
+                    "Stage1",
+                    "Stage2",
+                    "Stage3",
+                    "Stage4",
+                    "Stage5"
+                ]
+            },
+            {
+                "channel": "Emissive",
+                "properties": [
+                    "Emissive0",
+                    "Emissive1",
+                    "Emissive2",
+                    "Emissive3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_109_Athena_Commando_M_Pizza",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_104_Athena_Commando_F_Bunny",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_097_Athena_Commando_F_RockerPunk",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_081_Athena_Commando_F_Space",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2",
+                    "Stage3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_029_Athena_Commando_F_Halloween",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_001_Dog",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_004_Hamster",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_007_Woodsy",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_010_RoboKitty",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3",
+                    "Mat4"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_012_Drift_Fox",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_008_Fox",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_005_Wolf",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "PetCarrier_003_Dragon",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat0",
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "EID_Photographer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2",
+                    "Mat3"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_550_JonesyVagabond",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_775_Athena_Commando_F_StreetRacerCobraGold",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_802_Athena_Commando_F_HeartBreaker",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_803_Athena_Commando_F_SharkSuit",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_805_Athena_Commando_F_PunkDevilSummer",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Parts",
+                "properties": [
+                    "Stage1",
+                    "Stage2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "BID_407_ShiitakeShaolin",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "CID_610_Athena_Commando_M_ShiitakeShaolin",
+        "vtids": [],
+        "variants": [
+            {
+                "channel": "Material",
+                "properties": [
+                    "Mat1",
+                    "Mat2"
+                ]
+            }
+        ]
+    }
+]
