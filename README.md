@@ -20,7 +20,7 @@ REMEMBER you may not host this for your own Dev/Server that is AGAINST OUR LICEN
 <br>
 Install [NodeJS](https://nodejs.org/en/download/).
 <br>
-And install [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
+Install [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
 <br>
 open the folder in command prompt and run ```npm install```
 <br>
