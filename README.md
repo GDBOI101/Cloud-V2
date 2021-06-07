@@ -16,7 +16,7 @@ Then build and place that in your launcher folder and continue with Backend Setu
 ## Backend Setup
 Read all of the Files in the Docs Folder inside the Backend to get started!
 <br>
-REMEMBER you may not host this for your own private server that is AGAINST OUR LICENCE only use for youself! DO NOT REHOST
+REMEMBER you may not host this for your own Dev/Server that is AGAINST OUR LICENCE only use for youself! DO NOT REHOST
 <br>
 Install [NodeJS](https://nodejs.org/en/download/).
 <br>
