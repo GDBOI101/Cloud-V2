@@ -1,0 +1,221 @@
+@charset "utf-8";
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background-color: #4E5869;
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+
+ul, ol, dl { 
+	padding: 0;
+	margin: 0;
+}
+h1, h2, h3, h4, h5, h6, p {
+	margin-top: 0;	
+	padding-right: 15px;
+	padding-left: 15px;
+}
+a img { 
+	border: none;
+}
+
+
+a:link {
+	color:#414958;
+	text-decoration: underline; 
+}
+a:visited {
+	color: #4E5869;
+	text-decoration: underline;
+}
+a:hover, a:active, a:focus { 
+	text-decoration: none;
+}
+
+
+.container {
+	width: 80%;
+	max-width: 1260px;
+	min-width: 780px;
+	background-color: #FFF;
+	margin: 0 auto; 
+}
+
+
+.header {
+	background-color: #6F7D94;
+}
+
+
+.content {
+	padding: 10px 0;
+}
+
+
+.content ul, .content ol { 
+	padding: 0 15px 15px 40px;
+}
+
+
+.footer {
+	padding: 10px 0;
+	background-color: #6F7D94;
+}
+
+
+.fltrt {  
+	float: right;
+	margin-left: 8px;
+}
+.fltlft { 
+	float: left;
+	margin-right: 8px;
+}
+.clearfloat { 
+	clear:both;
+	height:0;
+	font-size: 1px;
+	line-height: 0px;
+}
+#btn001 {
+	background-color : #d9bb27;
+	position: absolute;
+right: 126px;
+top: 5px;
+	
+}
+#btn002 {
+	position: absolute;
+	display: inline-block;
+right: 126px;
+top: 25px;
+
+padding: 10px 13px;
+	
+}
+
+.primg0
+{
+	max-width: 150px;
+	max-height: 200px;
+}
+.card {
+	display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  text-align:center;
+	
+}
+.pcard {
+	display: inline-flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  text-align:center;
+	
+}
+.pbutton{
+        position : absolute;
+		text-align: center;
+        background-color: beige;
+        height: 50px;
+        width: 100px;
+		 margin-left: 50px;
+  margin-right: 50px;
+        border-radius: 5px;
+        display: inline-block;
+ 
+}
+.pform {
+	 position : absolute;
+		text-align: center;
+       margin-left: 500px;
+  margin-right: 500px;
+       display: inline-block;
+	
+}
+
+
+
+/* Start Search bar */
+
+* {
+  box-sizing: border-box;
+}
+
+/* Style the search field */
+form.srcbartn input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.srcbartn button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 20px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.srcbartn button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.srcbartn::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+
+/* End Search bar */
+
+
+/* Start Nav Search  */
+.product-filter {
+	display: flex;
+}
+
+.product-filter h1 {
+  flex-grow: 1;
+}
+
+.sort {
+  display: flex;
+}
+
+.collection-sort {
+  display: flex;
+  flex-direction: column;
+}
+.products {
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  background-color: #e6e6e6 ;
+  
+}
+.product-card {
+  padding: 2%;
+  flex-grow: 1;
+  flex-basis: 16%;
+
+  display: flex;
+}
+
+/* End Nav Search  */

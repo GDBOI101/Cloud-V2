@@ -1,0 +1,90 @@
+* {box-sizing: border-box;}
+
+body { 
+    margin: 0;
+    font-family: "SF Text";
+    height: 100%;
+    background-color: rgb(255, 255, 255);
+}
+
+
+.header {
+    margin: 0;
+    overflow: hidden;
+    background-image: url("../files/gradient.png");
+    background-size: cover;
+    padding: 30px 20px;
+}
+
+.header a {
+    color: white;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px; 
+    line-height: 20px;
+}
+.header a.bold {
+    font-size: 50px;
+    font-weight: bold;
+}
+  
+.header-right {
+    float: right
+}
+
+.center {
+    margin-left: 30%;
+    margin-top: 35px;
+    margin-right: 30%;
+}
+
+input, select {
+    width: 100%;
+    margin: 8px 0;
+    padding: 12px 10px;
+    border-radius: 6px;
+}
+
+input[type=number], select, input[type=text], input[type=email], input[type=password] {
+    background-color: rgb(255, 255, 255);
+    display: inline-block;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+}
+  
+button {
+    cursor: pointer;
+    font-family: "SF Text Regular";
+    color: white; 
+    overflow: hidden;
+    background-image: url("../files/gradient.png");
+    background-size: cover;
+    border-style: none;
+    margin: 8px 0;
+    padding: 12px 30px;
+    border-radius: 6px;
+}
+
+.title {
+    font-size: 50px;
+    font-family: "SF Text Bold";
+    background-clip: text;
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent; 
+    background-image: url("../files/gradient.png");
+    background-size: cover;
+    background-position: center;
+}
+
+.description {
+    margin: 8px 0;
+    font-family: "SF Text Regular";
+    color: rgb(141, 141, 141);
+    font-size: 14px;
+}
+
+.g-recaptcha {
+    margin: 8px 0;
+}

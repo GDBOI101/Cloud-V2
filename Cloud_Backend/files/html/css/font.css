@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "SF Text";
+    src: url("https://sf.abarba.me/SF-UI-Text-Bold.otf");
+}
+
+@font-face {
+    font-family: "SF Text Medium";
+    font-weight: 400;
+    src: url("https://sf.abarba.me/SF-UI-Text-Medium.otf");
+}
+
+@font-face {
+    font-family: "SF Text Regular";
+    font-weight: 400;
+    src: url("https://sf.abarba.me/SF-UI-Text-Regular.otf");
+}
+
+@font-face {
+    font-family: "SF Text Bold";
+    font-weight: 700;
+    src: url("https://sf.abarba.me/SF-UI-Text-Bold.otf");
+}

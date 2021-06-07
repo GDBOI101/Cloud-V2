@@ -1,0 +1,75 @@
+﻿@font-face {
+  font-family: 'Manrope Regular';
+  src: url(../ttf/Manrope-Regular.ttf)  format('truetype')
+}
+@font-face {
+  font-family: 'Manrope ExtraBold';
+  src: url(../ttf/Manrope-ExtraBold.ttf)  format('truetype')
+}
+
+body {
+  background-color: #06000A;
+  color: #D6D8E1;
+  font-family: "Manrope Regular";
+  display: flex;
+  flex-direction: column;
+  
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  
+  width: 100vw;
+  height: 100vh;
+}
+h1 {
+  font-family: "Manrope ExtraBold";
+  font-size: 30px;
+  padding-bottom: 7px;
+  user-select: none;
+}
+h3 {
+  font-size: 18.580779786px;
+  user-select: none;
+  padding-bottom: 5px;
+}
+a {
+  color: #D6D8E1;
+}
+
+.intro {
+  position: relative;
+  padding: 30px;
+}
+.intro:before {
+  content: '';
+  
+  display: block;
+  position: absolute;
+  
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  
+  background: url(../png/moon.png);
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  opacity: 0.03;
+  transition: 0.4s;
+}
+.intro.fullmoon:before {
+  opacity: 1;
+  transition: 1s;
+}
+.intro h1 {
+  font-size: 70px;
+  padding-bottom: 0;
+}
+.intro h3 {
+  padding-bottom: 0;
+}
+
+.section {
+  margin-top: 40px;
+}
