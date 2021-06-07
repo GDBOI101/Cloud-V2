@@ -33,4 +33,5 @@ For now you will have to find another launcher to use but as long as it injects 
 - [Website](https://cloudfn.dev/)
 
 ## Credits:
-Credits to GD And !Sky for making the backend
+GD: Backend and Cloud.Runtime
+!Sky: Backend
