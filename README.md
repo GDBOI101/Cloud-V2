@@ -34,7 +34,3 @@ For now you will have to find another launcher to use but as long as it injects 
 
 ## Credits:
 Credits to GD And !Sky for making the backend
-
-### APIs used in the backend
-- [Fortnite-API](https://fortnite-api.com/)
-- [NiteStats API](https://nitestats.com/)
