@@ -1,0 +1,21 @@
+;FortTextHotfixConfig (Replace Any Text In Game)
+[/Script/FortniteGame.FortTextHotfixConfig]
+;Namespace = The Namespace the String is included in
+;Key = The String Key IG? (can be found in FModel by finding the string and taking the key)
+;NativeString = The string thats supposed to be there
+;Use the exmaple below Fill in the Namespace, Key, and Native String. Then replace the "Replacement Text" with your text
+;eg: +TextReplacements=(Category=Game, bIsMinimalPatch=True, Namespace="NAMESPACE", Key="KEY", NativeString="Original String", LocalizedStrings=(("ar", "Replacement Text"),("en", "Replacement Text"),("de", "Replacement Text"),("es", "Replacement Text"),("es-419", "Replacement Text"),("fr", "Replacement Text"),("it", "Replacement Text"),("ja", "Replacement Text"),("ko", "Replacement Text"),("pl", "Replacement Text"),("pt-BR", "Replacement Text"),("ru", "Replacement Text"),("tr", "Replacement Text"),("zh-CN", "Replacement Text"),("zh-Hant", "Replacement Text")))
+
+;FortGameInstance
+[/Script/FortniteGame.FortGameInstance]
+;Use the following command to Clear all the playlists (gamemodes) from the menu
+
+;!FrontEndPlaylistData=ClearArray
+
+;Use the following command to add playlists
+
+;PlaylistName = The name of the playlist (eg: Playlist_DefaultSolo)
+;bEnabled = if the mode is enabled(if it says Disabled or not)
+;bIsDefaultPlaylist = if the mode is the defualt gamemode used when the game is launched
+;bVisibleWhenDisabled = if the mode shopws up in the menu or not when disabled
+;eg: +FrontEndPlaylistData=(PlaylistName=Playlist_DefaultSolo, PlaylistAccess=(bEnabled=true, bIsDefaultPlaylist=true, bVisibleWhenDisabled=true))

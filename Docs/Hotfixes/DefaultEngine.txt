@@ -1,0 +1,11 @@
+;OnlineSubsystemMcp.Xmpp (XMPP Services Stuff IG)
+[OnlineSubsystemMcp.Xmpp]
+;ServerAddr="ws://examplesite.com:6969" (The XMPP Websocket server default port is 80 not 6969 lmao)
+;bUseSSL=false (Just keep on false)
+;ServerPort=6969 (default is 80)
+
+;OnlineSubsystemMcp.Xmpp.Prod (same thing but Production mode Just keep same settings as the above one)
+[OnlineSubsystemMcp.Xmpp Prod]
+;ServerAddr="ws://examplesite.com:6969" (The XMPP Websocket server default port is 80 not 6969 lmao)
+;bUseSSL=false (Just keep on false)
+;ServerPort=6969 (default is 80)
