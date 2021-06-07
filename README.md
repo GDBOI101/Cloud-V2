@@ -9,7 +9,7 @@
 ## Info
 Welcome to Cloud V2 the **OPEN SOURCE** Fortnite Private Server!
 <br>
-This Project was made OS to help people **LEARN** how to make a Private Server **INSTEAD** of Copy and Pasting (Skidding)
+This Project was made OS to help people **LEARN** how to make a Private Server **INSTEAD** of Copy and Pasting
 <br>
 This was made to help you **LEARN** so you **DONT** Copy and Paste
 <br>
