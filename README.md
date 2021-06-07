@@ -8,14 +8,20 @@
 
 ## DLL Setup
 Go into VS 2019 and open ```Cloud.Runtime.vs```
+<br>
 Go to ```framework.h``` and edit the Host and Port to your needs.
+<br>
 Then build and place that in your launcher folder and continue with Backend Setup!
 
 ## Backend Setup
 Make sure to follow The Installation section below before continuing!
+<br>
 Read all of the Files in the Docs Folder inside the Backend to get started!
+<br>
 REMEMBER you may not host this for your own private server that is AGAINST OUR LICENCE only use for youself! DO NOT REHOST
+<br>
 Run ```start.bat``` In the Backend and the Backend should now work!
+<br>
 For now you will have to find another launcher to use but as long as it injects a dll just rename ```Cloud.Runtime.dll``` to that dlls name and it will work!
 
 ## Information:
