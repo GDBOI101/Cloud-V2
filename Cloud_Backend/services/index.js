@@ -1704,12 +1704,12 @@ app.get("/content/api/pages/fortnite-game", async (req, res) => {
             backgrounds: {
                 backgrounds: [
                     {
-                        stage: `worldcup`,
+                        stage: `season${season}`,
                         _type: "DynamicBackground",
                         key: "lobby"
                     },
                     {
-                        stage: `worldcup`,
+                        stage: `season${season}`,
                         _type: "DynamicBackground",
                         key: "vault"
                     }
