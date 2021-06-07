@@ -7,7 +7,7 @@
 </p>
 
 ## DLL Setup
-Go into VS 2019 and open ```Cloud.Runtime.vs```
+Go into VS 2019 and open ```Cloud.Runtime.sln```
 <br>
 Go to ```framework.h``` and edit the Host and Port to your needs.
 <br>
