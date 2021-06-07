@@ -1,9 +1,0 @@
-seasonX = Chapter 1 Season 10/X Background
-season12 = Chapter 2 Season 2 Background
-season13 = Chapter 2 Season 3 Background
-season14 = Chapter 2 Season 4 Background
-season15 = Chapter 2 Season 5 Background
-worldcup = Fortnite World Cup Background
-winter19 = Winter 2019 Background
-galileo = Start Wars Background
-summer = 2019 Summer Background
