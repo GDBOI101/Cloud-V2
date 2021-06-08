@@ -16,6 +16,8 @@ const errors = require(`${__dirname}/../files/structs/errors`)
 
 app.use("/id", require(`${__dirname}/endpoints.js`))
 
+app.get("/signup", (req, res) => res.sendFile(path.join(__dirname, "/../files/signup.html")))
+
 Date.prototype.addHours = function (h) {
     this.setTime(this.getTime() + (h * 60 * 60 * 1000));
     return this;
