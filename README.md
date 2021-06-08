@@ -13,7 +13,7 @@ This Project was made OS to help people **LEARN** how to make a Private Server *
 <br>
 This was made to help you **LEARN** so you **DONT** Copy and Paste
 <br>
-Take the chance to **LEARN** so you dont end up being a Skid and you can **IMPROVE** Not stay the same as others!
+Take the chance to **LEARN** so you dont end up being a Skid so you can **IMPROVE** Not stay the same as others!
 <br>
 Enjoy :)
 <br>
