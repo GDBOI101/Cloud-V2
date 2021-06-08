@@ -41,10 +41,29 @@ Install [NodeJS](https://nodejs.org/en/download/).
 Install [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
 <br>
 open the folder in command prompt and run ```npm install```
+
+## How to use
+Run ```start.bat``` In the Backend
 <br>
-Run ```start.bat``` In the Backend and the Backend should now work!
+Wait for it to show ```Server Running (Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
 <br>
-For now you will have to find another launcher to use but as long as it injects a dll just rename ```Cloud.Runtime.dll``` to that dlls name and it will work!
+Now go into your Root folder and open Launcher.exe
+<br>
+If you have not already created an account go to ```http://127.0.0.1:4495/signup``` to create one
+<br>
+In settings set your password and username to the username and password you used to create an account
+<br>
+Also, Set the path to a Fortnite Version of 14.60 or below
+<br>
+Close out of settings and Press Launch
+<br>
+If Version is above 14.0 Launch with ```Season 13-14```
+<br>
+If not launch with ```Season 1-13```
+<br>
+wait for the game to load and then you have your Private Server!
+<br>
+Enjoy :D!
 
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
