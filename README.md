@@ -17,12 +17,19 @@ Take the chance to **LEARN** so you dont end up being a Skid so you can **IMPROV
 <br>
 Enjoy :)
 <br>
+## Launcher Setup
+Go into vs 2019 and open ```Cloud_Launcher.sln```
+<br>
+Build and go to the output folder that is where your .exe file is from now on that will be the root folder
+Continue With DLL Setup
+
 ## DLL Setup
 Go into VS 2019 and open ```Cloud.Runtime.sln```
 <br>
 Go to ```framework.h``` and edit the Host and Port to your needs.
 <br>
-Then build and place that in your launcher folder and continue with Backend Setup!
+Then build and place that in your launcher 
+Continue with Backend Setup!
 
 ## Backend Setup
 Read all of the Files in the Docs Folder inside the Backend to get started!
