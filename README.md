@@ -35,7 +35,7 @@ Continue with Backend Setup!
 ## Backend Setup
 Read all of the Files in the Docs Folder inside the Backend to get started!
 <br>
-REMEMBER you may not host this for your own Server that is AGAINST OUR LICENCE only use it for youself! DONT REHOST
+You may NOT host this for your own Server that is AGAINST OUR LICENCE only use it for youself! DONT REHOST
 <br>
 Install [NodeJS](https://nodejs.org/en/download/).
 <br>
