@@ -157,7 +157,7 @@ app.post("/api/update", async (req, res) => {
     })
 
     var pattern = new RegExp('^[0-9]+$')
-    var stages = JSON.parse(fs.readFileSync(`${__dirname}/../public/files/stages.json`))
+    var stages = JSON.parse(fs.readFileSync(`${__dirname}/../files/server/stages.json`))
 
     var updated = {}
 
