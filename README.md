@@ -21,6 +21,7 @@ Enjoy :)
 Go into vs 2019 and open ```Cloud_Launcher.sln```
 <br>
 Build and go to the output folder that is where your .exe file is from now on that will be the root folder
+<br>
 Continue With DLL Setup
 
 ## DLL Setup
