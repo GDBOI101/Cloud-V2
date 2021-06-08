@@ -66,12 +66,12 @@ app.get("/fortnite/api/cloudstorage/system/:filename", (req, res) => {
 
     if (!reversed[req.params.filename]) return res.status(404).json(
         errors.create(
-            "errors.com.epicgames.cloudstorage.file_not_found", 12004, // Code
-            `Sorry, we couldn't find a system file for ${req.params.filename}`, // Message
+            "errors.com.epicgames.cloudstorage.file_not_found", 12004,
+            `Sorry, we couldn't find a system file for ${req.params.filename}`,
 
-            "fortnite", "prod-live", // Service & Intent
+            "fortnite", "prod-live",
 
-            [req.params.filename] // Variables
+            [req.params.filename]
         )
     )
     res.setHeader("content-type", "application/octet-stream")
