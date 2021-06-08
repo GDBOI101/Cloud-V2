@@ -46,7 +46,7 @@ open the folder in command prompt and run ```npm install```
 ## How to use
 Run ```start.bat``` In the Backend
 <br>
-Wait for it to show ```Server Running (Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
+Wait for it to show ```Servers Online (Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
 <br>
 Now go into your Root folder and open Launcher.exe
 <br>
