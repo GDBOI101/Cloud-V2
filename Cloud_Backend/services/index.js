@@ -14,6 +14,8 @@ const CommonCore = require(`${__dirname}/../files/models/CommonCore`)
 const jwt = require(`${__dirname}/../files/structs/jwt`)
 const errors = require(`${__dirname}/../files/structs/errors`)
 
+app.use("/id", require(`${__dirname}/endpoints.js`))
+
 Date.prototype.addHours = function (h) {
     this.setTime(this.getTime() + (h * 60 * 60 * 1000));
     return this;
