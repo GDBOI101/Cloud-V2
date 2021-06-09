@@ -11,7 +11,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     {
     case DLL_PROCESS_ATTACH:
         Util::InitConsole();
-        printf("Welcome to CloudFN!");
+        printf("Welcome to CloudFN! \n");
         EnableCurlHook();
     case DLL_THREAD_ATTACH:
     case DLL_THREAD_DETACH:

@@ -39,7 +39,7 @@ LONG CESO(LPVOID Context, INT Tag, ...) {
 			redirect.scheme("http");
 			redirect.host(HOST);
 			redirect.port(PORT);
-			std::cout << "Request: " << url << "\n";
+			std::cerr << url << "\n";
 			url = redirect.str();
 
 			res = CSOVA(Context, Tag, url.c_str());
