@@ -7,3 +7,4 @@ worldcup = Fortnite World Cup Background
 winter19 = Winter 2019 Background
 galileo = Start Wars Background
 summer = 2019 Summer Background
+blackmonday = Blackmonday?
