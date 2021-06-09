@@ -14,6 +14,7 @@ global.invites = []
 global.pings = []
 global.SERVER = server
 global.Server_version = fs.readFileSync(`${__dirname}/files/server/server_version.txt`).toString()
+global.DBG = fs.readFileSync(`${__dirname}/files/server/background.txt`).toString()
 
 app.use(require('body-parser').json())
 app.use(require('body-parser').urlencoded({extended: true}))
