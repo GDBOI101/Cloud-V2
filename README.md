@@ -48,8 +48,6 @@ Run ```start.bat``` In the Backend
 <br>
 Wait for it to show ```Servers Online (Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
 <br>
-Now go into your Root folder and open Launcher.exe
-<br>
 If you have not already created an account go to ```http://127.0.0.1:4495/signup``` to create one
 <br>
 Open The Launcher
