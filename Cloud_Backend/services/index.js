@@ -1650,6 +1650,7 @@ app.get("/fortnite/api/v2/versioncheck/Windows", (req, res) => {
 
 app.get("/api/pages/fortnite-game", async (req, res) => {
     var season
+    var DynamicBG
     if (req.headers["user-agent"]) {
         try {
             season = req.headers["user-agent"].split("-")[1].split(".")[0]
@@ -1658,7 +1659,10 @@ app.get("/api/pages/fortnite-game", async (req, res) => {
             season = 2
         }
     } else season = 2
-
+    DynamicBG = DBG
+    if(DBG == "auto") {
+        DynamicBG = `season${season}`
+    }
     res.json({
         "jcr:isCheckedOut": true,
         _title: "Fortnite Game",
