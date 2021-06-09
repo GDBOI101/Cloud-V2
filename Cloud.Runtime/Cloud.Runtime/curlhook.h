@@ -6,7 +6,6 @@ LPVOID LP_CSO;
 LPVOID LP_CESO;
 VHook* CESO_HOOK;
 LONG(*CSO)(LPVOID, INT, va_list) = nullptr;
-__declspec(dllexport) void func(WCHAR*) {}
 
 LONG CSOVA(LPVOID lpContext, INT iOption, ...) {
 	va_list arg;
