@@ -52,6 +52,8 @@ Now go into your Root folder and open Launcher.exe
 <br>
 If you have not already created an account go to ```http://127.0.0.1:4495/signup``` to create one
 <br>
+Open The Launcher
+<br>
 In settings set your password and username to the username and password you used to create an account
 <br>
 Also, Set the path to a Fortnite Version of 14.60 or below
