@@ -43,7 +43,6 @@ open the folder in command prompt and run ```npm install```
 
 ## How to use
 **NOT READY FOR USE**
-```
 Run ```start.bat``` In the Backend
 <br>
 Wait for it to show ```Servers Online (Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
@@ -65,7 +64,6 @@ If not launch with ```Season 1-13```
 wait for the game to load and then you have your Private Server!
 <br>
 Enjoy :D!
-```
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
 - [Website](https://cloudfn.dev/)
