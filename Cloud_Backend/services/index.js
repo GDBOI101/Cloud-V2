@@ -6,17 +6,13 @@ const CheckT = require("../cloud_data/other/CT")
 const crypto = require("crypto")
 const Party = require("./party/index")
 const fs = require('fs')
-const profiles = require(`${__dirname}/../files/structs/profile`)
 const User = require(`${__dirname}/../files/models/User`)
+const profiles = require(`${__dirname}/../files/structs/profile`)
 const Friends = require(`${__dirname}/../files/models/Friends`)
 const Athena = require(`${__dirname}/../files/models/Athena`)
 const CommonCore = require(`${__dirname}/../files/models/CommonCore`)
 const jwt = require(`${__dirname}/../files/structs/jwt`)
 const errors = require(`${__dirname}/../files/structs/errors`)
-
-app.use("/id", require(`${__dirname}/endpoints.js`))
-
-app.get("/signup", (req, res) => res.sendFile(path.join(__dirname, "/../files/signup.html")))
 
 Date.prototype.addHours = function (h) {
     this.setTime(this.getTime() + (h * 60 * 60 * 1000));
@@ -28,6 +24,73 @@ const uniqueFilenames = {
     "DefaultEngine.ini": "3460cbe1c57d4a838ace32951a4d7171"
 }
 
+app.all("/account/api/public/account/displayName/:displayName", async (req, res) => {
+    if (req.method != "GET") return res.status(405).json(errors.method())
+    var user = await User.findOne({ displayName: new RegExp(`^${req.params.displayName}$`, 'i') }).lean();
+
+    if (user) res.json({
+        id: user.id,
+        displayName: user.displayName,
+        externalAuths: {}
+    })
+    else return res.status(404).json(errors.create(
+        "errors.com.epicgames.account.account_not_found", 18007,
+        `Sorry, we couldn't find an account for ${req.params.displayName}`,
+        "com.epicgames.account.public", "prod"
+    ))
+})
+
+app.all("/account/api/public/account/email/:email", async (req, res) => {
+    if (req.method != "GET") return res.status(405).json(errors.method())
+    var user = await User.findOne({ email: new RegExp(`^${req.params.email}$`, 'i') }).lean();
+
+    if (user) res.json({
+        id: user.id,
+        displayName: user.displayName,
+        externalAuths: {}
+    })
+
+    else return res.status(404).json(errors.create(
+        "errors.com.epicgames.account.account_not_found", 18007,
+        `Sorry, we couldn't find an account for ${req.params.displayName}`,
+        "com.epicgames.account.public", "prod"
+    ))
+})
+
+app.all("/account/api/public/account", async (req, res) => {
+    if (req.method != "GET") return res.status(405).json(errors.method())
+
+    if (req.query.accountId ? req.query.accountId.length > 100 : true) return res.status(400).json(errors.create(
+        "errors.com.epicgames.account.invalid_account_id_count", 18066,
+        "Sorry, the number of account id should be at least one and not more than 100.",
+        "com.epicgames.account.public", "prod", []
+    ))
+
+    var users = await User.find({ 'id': { $in: req.query.accountId } }).lean()
+
+    res.json(users.map(x => {
+        return {
+            id: x.id,
+            displayName: x.displayName,
+            externalAuths: {}
+        }
+    }))
+})
+
+app.all("/account/api/public/account/:accountId", async (req, res) => {
+    if (req.method != "GET") return res.status(405).json(errors.method())
+    var user = await User.findOne({ id: req.params.accountId }).lean();
+    if (user) res.json({
+        id: user.id,
+        displayName: user.displayName,
+        externalAuths: {}
+    })
+    else return res.status(404).json(errors.create(
+        "errors.com.epicgames.account.account_not_found", 18007,
+        `Sorry, we couldn't find an account for ${req.params.accountId}`,
+        "com.epicgames.account.public", "prod"
+    ))
+})
 
 app.get("/fortnite/api/cloudstorage/system", (req, res) => {
     if (req.headers["user-agent"].split("-")[1].includes("13.40")) {
@@ -96,14 +159,17 @@ function createResponse(changes, id, rvn) {
     }
 }
 //query profile
-app.all(`/fortnite/api/game/v2/profile/:accountId/client/RefreshExpeditions`, async (req, res) => {
-    if (req.method != "POST") return res.status(405).json(errors.method("fortnite", "prod-live"))
-    var profile = await profiles.athena(req.params.accountId)
-    res.json(createResponse([profile], "profile0"));
-})
-
 app.all(`/fortnite/api/game/v2/profile/:accountId/client/QueryProfile`, async (req, res) => {
     if (req.method != "POST") return res.status(405).json(errors.method("fortnite", "prod-live"))
+    if (!Athena.findOne({ id: req.params.accountId })) {
+        var id = crypto.randomBytes(16).toString('hex')
+        var friends = new Friends({ id: id })
+        friends.save()
+        var commoncore = new CommonCore({ id: id })
+        commoncore.save()
+        var athena = new Athena({ id: id })
+        athena.save()
+    }
     switch (req.query.profileId) {
         case "athena":
             var profile = await profiles.athena(req.params.accountId)
@@ -741,20 +807,13 @@ app.all("/account/api/oauth/sessions/kill/:accessToken", (req, res) => {
 
 
 // account lookup
-
 app.all("/account/api/public/account/:accountId", async (req, res) => {
     if (req.method != "GET") return res.status(405).json(errors.method())
-    var user = await User.findOne({ id: req.params.accountId }).lean();
-    if (user) res.json({
-        id: user.id,
-        displayName: user.displayName,
+    res.json({
+        id: req.params.id,
+        displayName: UserName,
         externalAuths: {}
     })
-    else return res.status(404).json(errors.create(
-        "errors.com.epicgames.account.account_not_found", 18007,
-        `Sorry, we couldn't find an account for ${req.params.accountId}`,
-        "com.epicgames.account.public", "prod"
-    ))
 })
 
 app.all("/friends/api/v1/:accountId/friends", async (req, res) => {
@@ -1555,60 +1614,6 @@ app.all("/lightswitch/api/service/bulk/status", (req, res) => {
 
 app.get('/api/public/account/:accountId/externalAuths', (req, res) => res.json({}))
 
-
-app.all("/account/api/public/account/displayName/:displayName", async (req, res) => {
-    if (req.method != "GET") return res.status(405).json(errors.method())
-    var user = await User.findOne({ displayName: new RegExp(`^${req.params.displayName}$`, 'i') }).lean();
-
-    if (user) res.json({
-        id: user.id,
-        displayName: user.displayName,
-        externalAuths: {}
-    })
-    else return res.status(404).json(errors.create(
-        "errors.com.epicgames.account.account_not_found", 18007,
-        `Sorry, we couldn't find an account for ${req.params.displayName}`,
-        "com.epicgames.account.public", "prod"
-    ))
-})
-
-app.all("/account/api/public/account/email/:email", async (req, res) => {
-    if (req.method != "GET") return res.status(405).json(errors.method())
-    var user = await User.findOne({ email: new RegExp(`^${req.params.email}$`, 'i') }).lean();
-
-    if (user) res.json({
-        id: user.id,
-        displayName: user.displayName,
-        externalAuths: {}
-    })
-
-    else return res.status(404).json(errors.create(
-        "errors.com.epicgames.account.account_not_found", 18007,
-        `Sorry, we couldn't find an account for ${req.params.displayName}`,
-        "com.epicgames.account.public", "prod"
-    ))
-})
-
-app.all("/account/api/public/account", async (req, res) => {
-    if (req.method != "GET") return res.status(405).json(errors.method())
-
-    if (req.query.accountId ? req.query.accountId.length > 100 : true) return res.status(400).json(errors.create(
-        "errors.com.epicgames.account.invalid_account_id_count", 18066,
-        "Sorry, the number of account id should be at least one and not more than 100.",
-        "com.epicgames.account.public", "prod", []
-    ))
-
-    var users = await User.find({ 'id': { $in: req.query.accountId } }).lean()
-
-    res.json(users.map(x => {
-        return {
-            id: x.id,
-            displayName: x.displayName,
-            externalAuths: {}
-        }
-    }))
-})
-
 app.all("/account/api/public/account/:accountId/externalAuths", (req, res) => res.json({}))
 
 app.all("/account/api/oauth/verify", CheckT, (req, res, next) => {
@@ -1643,16 +1648,16 @@ app.get("/fortnite/api/v2/versioncheck/Windows", (req, res) => {
     res.json({ type: "NO_UPDATE" })
 })
 
-app.get("/content/api/pages/fortnite-game", async (req, res) => {
+app.get("/api/pages/fortnite-game", async (req, res) => {
     var season
     if (req.headers["user-agent"]) {
         try {
             season = req.headers["user-agent"].split("-")[1].split(".")[0]
             if (season == 10) season = "x"
         } catch {
-            season = 14
+            season = 2
         }
-    } else season = 14
+    } else season = 2
 
     res.json({
         "jcr:isCheckedOut": true,
@@ -1660,28 +1665,40 @@ app.get("/content/api/pages/fortnite-game", async (req, res) => {
         "jcr:baseVersion": "a7ca237317f1e7883b3279-c38f-4aa7-a325-e099e4bf71e5",
         _activeDate: "2017-08-30T03:20:48.050Z",
         lastModified: new Date(),
-        "_locale": "en-US",
-        "battleroyalenewsv2": {
-            "news": {
-                "motds": [{
-                    "entryType": "Website",
-                    "image": `https://media.discordapp.net/attachments/823708041597288468/851201238879830046/CloudFN.jpg`,
-                    "tileImage": `https://media.discordapp.net/attachments/823708041597288468/851201238879830046/CloudFN.jpg`,
-                    "videoMute": false,
-                    "hidden": false,
-                    "tabTitleOverride": "CloudV2",
-                    "_type": "CommonUI Simple Message MOTD",
-                    "title": "CloudFN",
-                    "body": "Welcome to CloudFN",
-                    "videoLoop": false,
-                    "videoStreamingEnabled": false,
-                    "sortingPriority": 0,
-                    "id": "CloudFN-News",
-                    "videoAutoplay": false,
-                    "videoFullscreen": false,
-                    "spotlight": false
-                }]
+        _locale: "en-US",
+        battleroyalenewsv2: {
+            news: {
+                motds: [
+                    {
+                        entryType: "Website",
+                        image: "https://media.discordapp.net/attachments/835302046592270446/847286989123485706/3.png",
+                        tileImage: "https://media.discordapp.net/attachments/835302046592270446/847286989123485706/3.png",
+                        hidden: false,
+                        videoMute: false,
+                        tabTitleOverride: "Project Cloud",
+                        _type: "CommonUI Simple Message MOTD",
+                        body: "Welcome to CloudFN V2",
+                        title: "Cloud V2",
+                        videoLoop: false,
+                        videoStreamingEnabled: false,
+                        sortingPriority: 0,
+                        id: `Cloud-News-0`,
+                        spotlight: false,
+                        websiteURL: "https://cloudfn.dev",
+                        websiteButtonText: "CloudFN Website"
+                    }
+                ]
             },
+            "jcr:isCheckedOut": true,
+            "_title": "battleroyalenewsv2",
+            "header": "",
+            "style": "None",
+            "_noIndex": false,
+            "alwaysShow": true,
+            "jcr:baseVersion": "a7ca237317f1e704b1a186-6846-4eaa-a542-c2c8ca7e7f29",
+            "_activeDate": "2020-01-21T14:00:00.000Z",
+            "lastModified": "2021-02-10T23:57:48.837Z",
+            "_locale": "en-US"
         },
         emergencynoticev2: {
             news: {
@@ -1692,8 +1709,8 @@ app.get("/content/api/pages/fortnite-game", async (req, res) => {
                         hidden: false,
                         _type: "CommonUI Simple Message Base",
                         subgame: "br",
-                        body: "Welcome to CloudFN!",
-                        title: "CloudFN",
+                        body: "Welcome to CloudFN V2",
+                        title: "Cloud V2",
                         spotlight: true
                     }
                 ]
