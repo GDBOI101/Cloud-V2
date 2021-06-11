@@ -31,7 +31,7 @@ Then build and place that in your launcher
 Continue with Backend Setup!
 
 ## Backend Setup
-Read all of the Files in the Docs Folder inside the Backend to get started!
+Read all of the Files in the Docs Folder to get the Backend started!
 <br>
 You may NOT host this for your own Server that is AGAINST OUR LICENCE only use it for youself! DONT REHOST
 <br>
