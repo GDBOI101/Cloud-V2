@@ -161,15 +161,6 @@ function createResponse(changes, id, rvn) {
 //query profile
 app.all(`/fortnite/api/game/v2/profile/:accountId/client/QueryProfile`, async (req, res) => {
     if (req.method != "POST") return res.status(405).json(errors.method("fortnite", "prod-live"))
-    if (!Athena.findOne({ id: req.params.accountId })) {
-        var id = crypto.randomBytes(16).toString('hex')
-        var friends = new Friends({ id: id })
-        friends.save()
-        var commoncore = new CommonCore({ id: id })
-        commoncore.save()
-        var athena = new Athena({ id: id })
-        athena.save()
-    }
     switch (req.query.profileId) {
         case "athena":
             var profile = await profiles.athena(req.params.accountId)
@@ -730,18 +721,6 @@ app.all("/account/api/oauth/token", async (req, res) => {
                 "com.epicgames.account.public", "prod", []
             ))
             break;
-    }
-
-    if (!user) {
-        var userBOI = new User({ id: req.params.accountId, displayName: req.body.username, email: req.body.email, password: bcrypt.hashSync(req.body.password, bcrypt.genSaltSync(10)) })
-        userBOI.save()
-        var friends = new Friends({ id: req.params.accountId })
-        friends.save()
-        var commoncore = new CommonCore({ id: req.params.accountId })
-        commoncore.save()
-        var athena = new Athena({ id: req.params.accountId })
-        athena.save()
-        user = await User.findOne({ id: req.params.accountId }).lean();
     }
 
     var token = jwt.createNormal(req.body.grant_type, user.id, user.displayName, clientId)
@@ -1648,7 +1627,7 @@ app.get("/fortnite/api/v2/versioncheck/Windows", (req, res) => {
     res.json({ type: "NO_UPDATE" })
 })
 
-app.get("/content/api/pages/fortnite-game", async (req, res) => {
+app.get("/api/pages/fortnite-game", async (req, res) => {
     var season
     var DynamicBG
     if (req.headers["user-agent"]) {
