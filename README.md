@@ -58,7 +58,7 @@ Also, Set the path to a Fortnite Version of 14.60 or below
 <br>
 Close out of settings and Press Launch
 <br>
-If Version is above 14.0 Launch with ```Season 13-14```
+If Version is above 13.40 Launch with ```Season 13-14```
 <br>
 If not launch with ```Season 1-13```
 <br>
