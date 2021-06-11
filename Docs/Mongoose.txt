@@ -2,7 +2,7 @@ CLOUD HOSTED ONLY
 
 Go to https://www.mongodb.com/cloud/atlas and signup and then sign in
 
-Create a new Cluster choose your provider and then select a FREE TIER Region
+Create a new Cluster choose a provider and then select a FREE TIER Region
 For Cluster Tier set it to M0 Sandbox
 Leave everything else to the default setting
 Set your cluster name
@@ -20,4 +20,4 @@ Copy the text that starts with "mongodb+srv"
 in index.js at the root of the backend folder, replace the text in the mongoose.connect() with what you just copied
 For the last step replace the password section of the text you just pasted with your Mongo accounts password
 
-Now your Mongooes is setup!
+Now your Mongoose is setup!
