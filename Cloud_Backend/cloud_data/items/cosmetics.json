@@ -235,9 +235,294 @@
         "name": "Trinity Trooper"
     },
     {
-        "id": "CID_934_Athena_Commando_M_Vertigo",
+        "id": "CID_958_Athena_Commando_M_PieMan",
         "backendType": "AthenaCharacter",
-        "name": "Venom"
+        "name": "Mincemeat"
+    },
+    {
+        "id": "CID_959_Athena_Commando_M_Corny",
+        "backendType": "AthenaCharacter",
+        "name": "Cobb"
+    },
+    {
+        "id": "CID_963_Athena_Commando_F_Lexa",
+        "backendType": "AthenaCharacter",
+        "name": "Lexa"
+    },
+    {
+        "id": "CID_964_Athena_Commando_M_Historian_869BC",
+        "backendType": "AthenaCharacter",
+        "name": "Kratos"
+    },
+    {
+        "id": "CID_965_Athena_Commando_F_SpaceFighter",
+        "backendType": "AthenaCharacter",
+        "name": "Reese"
+    },
+    {
+        "id": "CID_966_Athena_Commando_M_FutureSamurai",
+        "backendType": "AthenaCharacter",
+        "name": "Kondor"
+    },
+    {
+        "id": "CID_967_Athena_Commando_M_AncientGladiator",
+        "backendType": "AthenaCharacter",
+        "name": "Menace"
+    },
+    {
+        "id": "CID_968_Athena_Commando_M_TeriyakiFishElf",
+        "backendType": "AthenaCharacter",
+        "name": "Fa-La-La-La-Fishstick"
+    },
+    {
+        "id": "CID_969_Athena_Commando_M_SnowmanFashion",
+        "backendType": "AthenaCharacter",
+        "name": "Snowmando"
+    },
+    {
+        "id": "CID_970_Athena_Commando_F_RenegadeRaiderHoliday",
+        "backendType": "AthenaCharacter",
+        "name": "Gingerbread Raider"
+    },
+    {
+        "id": "CID_971_Athena_Commando_M_Jupiter_S0Z6M",
+        "backendType": "AthenaCharacter",
+        "name": "Master Chief"
+    },
+    {
+        "id": "CID_972_Athena_Commando_F_ArcticCamoWoods",
+        "backendType": "AthenaCharacter",
+        "name": "Frost Squad"
+    },
+    {
+        "id": "CID_975_Athena_Commando_F_Cherry_B8XN5",
+        "backendType": "AthenaCharacter",
+        "name": "Captain Marvel"
+    },
+    {
+        "id": "CID_976_Athena_Commando_F_Wombat_0GRTQ",
+        "backendType": "AthenaCharacter",
+        "name": "Michonne"
+    },
+    {
+        "id": "CID_977_Athena_Commando_M_Wombat_R7Q8K",
+        "backendType": "AthenaCharacter",
+        "name": "Daryl Dixon"
+    },
+    {
+        "id": "CID_978_Athena_Commando_M_FancyCandy",
+        "backendType": "AthenaCharacter",
+        "name": "Mr. Dappermint"
+    },
+    {
+        "id": "CID_979_Athena_Commando_M_Snowboarder",
+        "backendType": "AthenaCharacter",
+        "name": "Karve"
+    },
+    {
+        "id": "CID_980_Athena_Commando_F_Elf",
+        "backendType": "AthenaCharacter",
+        "name": "Snowbell"
+    },
+    {
+        "id": "CID_981_Athena_Commando_M_JonesyHoliday",
+        "backendType": "AthenaCharacter",
+        "name": "Cozy Jonesy"
+    },
+    {
+        "id": "CID_982_Athena_Commando_M_DriftWinter",
+        "backendType": "AthenaCharacter",
+        "name": "Snow Drift"
+    },
+    {
+        "id": "CID_983_Athena_Commando_F_CupidWinter",
+        "backendType": "AthenaCharacter",
+        "name": "Snowheart"
+    },
+    {
+        "id": "CID_989_Athena_Commando_M_ProgressiveJonesy",
+        "backendType": "AthenaCharacter",
+        "name": "Agent Jones"
+    },
+    {
+        "id": "CID_991_Athena_Commando_M_Nightmare_NM1C8",
+        "backendType": "AthenaCharacter",
+        "name": "Predator"
+    },
+    {
+        "id": "CID_993_Athena_Commando_M_TyphoonRobot_2YRGVs",
+        "backendType": "AthenaCharacter",
+        "name": "T-800"
+    },
+    {
+        "id": "CID_994_Athena_Commando_M_Lexa",
+        "backendType": "AthenaCharacter",
+        "name": "Orin"
+    },
+    {
+        "id": "CID_A_006_Athena_Commando_M_ConvoyTarantula_641PZ",
+        "backendType": "AthenaCharacter",
+        "name": "Snake Eyes"
+    },
+    {
+        "id": "CID_A_007_Athena_Commando_F_StreetFashionEclipse",
+        "backendType": "AthenaCharacter",
+        "name": "Ruby Shadows"
+    },
+    {
+        "id": "CID_A_008_Athena_Commando_F_CombatDoll",
+        "backendType": "AthenaCharacter",
+        "name": "Tess"
+    },
+    {
+        "id": "CID_A_009_Athena_Commando_F_FoxWarrior_21B9R",
+        "backendType": "AthenaCharacter",
+        "name": "Vi"
+    },
+    {
+        "id": "CID_A_010_Athena_Commando_M_Tar_46FMC",
+        "backendType": "AthenaCharacter",
+        "name": "The Flash"
+    },
+    {
+        "id": "CID_A_022_Athena_Commando_F_Crush",
+        "backendType": "AthenaCharacter",
+        "name": "Lovely"
+    },
+    {
+        "id": "CID_A_023_Athena_Commando_M_Skirmish_W1N7H",
+        "backendType": "AthenaCharacter",
+        "name": "Ryu"
+    },
+    {
+        "id": "CID_A_024_Athena_Commando_F_Skirmish_QW2BQ",
+        "backendType": "AthenaCharacter",
+        "name": "Chun-Li"
+    },
+    {
+        "id": "CID_A_025_Athena_Commando_M_Kepler_UEN6V",
+        "backendType": "AthenaCharacter",
+        "name": "Xenomorph"
+    },
+    {
+        "id": "CID_A_027_Athena_Commando_F_CasualBomberLight",
+        "backendType": "AthenaCharacter",
+        "name": "Britestorm Bomber"
+    },
+    {
+        "id": "CID_A_029_Athena_Commando_M_LlamaHeroWinter_C83TZ",
+        "backendType": "AthenaCharacter",
+        "name": "Llambro"
+    },
+    {
+        "id": "CID_A_094_Athena_Commando_F_Cavern_33LMC",
+        "backendType": "AthenaCharacter",
+        "name": "Catwoman Zero"
+    },
+    {
+        "id": "CID_A_095_Athena_Commando_M_DoubleAgentGrey",
+        "backendType": "AthenaCharacter",
+        "name": "Marius"
+    },
+    {
+        "id": "CID_A_096_Athena_Commando_F_TaxiUpgradedMulticolor",
+        "backendType": "AthenaCharacter",
+        "name": "Rainbow Racer"
+    },
+    {
+        "id": "CID_A_101_Athena_Commando_M_TacticalWoodlandBlue",
+        "backendType": "AthenaCharacter",
+        "name": "Fixer"
+    },
+    {
+        "id": "CID_A_102_Athena_Commando_M_AssembleL",
+        "backendType": "AthenaCharacter",
+        "name": "Lok-Bot"
+    },
+    {
+        "id": "CID_A_104_Athena_Commando_M_TowerSentinel",
+        "backendType": "AthenaCharacter",
+        "name": "Spire Immortal"
+    },
+    {
+        "id": "CID_A_105_Athena_Commando_F_SpaceCuddles_5TEVA",
+        "backendType": "AthenaCharacter",
+        "name": "Mecha Cuddle Master"
+    },
+    {
+        "id": "CID_A_106_Athena_Commando_F_FuturePinkGoal",
+        "backendType": "AthenaCharacter",
+        "name": "The Champion"
+    },
+    {
+        "id": "CID_A_109_Athena_Commando_M_Emperor",
+        "backendType": "AthenaCharacter",
+        "name": "Clark Kent"
+    },
+    {
+        "id": "CID_A_110_Athena_Commando_M_AlienTrooper",
+        "backendType": "AthenaCharacter",
+        "name": "Kymera"
+    },
+    {
+        "id": "CID_A_111_Athena_Commando_M_Faux",
+        "backendType": "AthenaCharacter",
+        "name": "Joey"
+    },
+    {
+        "id": "CID_A_112_Athena_Commando_M_Ruckus",
+        "backendType": "AthenaCharacter",
+        "name": "Rick Sanchez"
+    },
+    {
+        "id": "CID_A_113_Athena_Commando_F_Innovator",
+        "backendType": "AthenaCharacter",
+        "name": "Doctor Slone"
+    },
+    {
+        "id": "CID_A_114_Athena_Commando_F_Believer",
+        "backendType": "AthenaCharacter",
+        "name": "Sunny"
+    },
+    {
+        "id": "CID_A_115_Athena_Commando_M_Antique",
+        "backendType": "AthenaCharacter",
+        "name": "Guggimon"
+    },
+    {
+        "id": "CID_A_116_Athena_Commando_M_Invader",
+        "backendType": "AthenaCharacter",
+        "name": "Zyg"
+    },
+    {
+        "id": "CID_A_117_Athena_Commando_F_Rockstar",
+        "backendType": "AthenaCharacter",
+        "name": "Celeste"
+    },
+    {
+        "id": "CID_A_118_Athena_Commando_M_JonesyCattle",
+        "backendType": "AthenaCharacter",
+        "name": "Guernsey"
+    },
+    {
+        "id": "CID_962_Athena_Commando_M_FlapjackWrangler",
+        "backendType": "AthenaCharacter",
+        "name": "Mancake"
+    },
+    {
+        "id": "CID_961_Athena_Commando_F_Shapeshifter",
+        "backendType": "AthenaCharacter",
+        "name": "Mave"
+    },
+    {
+        "id": "CID_960_Athena_Commando_M_Cosmos",
+        "backendType": "AthenaCharacter",
+        "name": "Mandalorian"
+    },
+    {
+        "id": "CID_957_Athena_Commando_F_Ponytail",
+        "backendType": "AthenaCharacter",
+        "name": "Heart-Stopper"
     },
     {
         "id": "CID_934_Athena_Commando_M_Vertigo",
@@ -14348,6 +14633,26 @@
         "id": "EID_RichFam",
         "backendType": "AthenaDance",
         "name": "Its Complicated"
+    },
+    {
+        "id": "EID_Faux",
+        "backendType": "AthenaDance",
+        "name": "Unzipped"
+    },
+    {
+        "id": "EID_Suits",
+        "backendType": "AthenaDance",
+        "name": "Cardistry"
+    },
+    {
+        "id": "EID_Suits",
+        "backendType": "AthenaDance",
+        "name": "Cardistry"
+    },
+    {
+        "id": "EID_Emperor",
+        "backendType": "AthenaDance",
+        "name": "Secret Identity"
     },
     {
         "id": "EID_HightowerTomato",
