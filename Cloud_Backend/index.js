@@ -31,7 +31,7 @@ app.use(require('body-parser').json())
 app.use(require('body-parser').urlencoded({ extended: true }))
 app.use(require("./services/index"))
 
-mongoose.connect("mongodb+srv://username:password@host:port/database?retryWrites=true&w=majority", { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: true }, async e => {
+mongoose.connect("mongodb://localhost:27017", { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: true }, async e => {
     if (e) throw e
 })
 require("./services/party/index")
