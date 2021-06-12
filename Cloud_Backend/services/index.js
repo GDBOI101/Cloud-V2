@@ -1627,7 +1627,7 @@ app.get("/fortnite/api/v2/versioncheck/Windows", (req, res) => {
     res.json({ type: "NO_UPDATE" })
 })
 
-app.get("/api/pages/fortnite-game", async (req, res) => {
+app.get("/content/api/pages/fortnite-game", async (req, res) => {
     var season
     var DynamicBG
     if (req.headers["user-agent"]) {
