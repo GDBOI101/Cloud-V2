@@ -18230,6 +18230,36 @@
         "name": "Blaze"
     },
     {
+        "id": "CID_TBD_Athena_Commando_M_Turtleneck",
+        "backendType": "AthenaCharacter",
+        "name": "The Foundation"
+    },
+    {
+        "id": "CID_NPC_Athena_Commando_M_SpaceWanderer",
+        "backendType": "AthenaCharacter",
+        "name": "TBD"
+    },
+    {
+        "id": "CID_NPC_Athena_Commando_F_TowerSentinel",
+        "backendType": "AthenaCharacter",
+        "name": "TBD"
+    },
+    {
+        "id": "CID_NPC_Athena_Commando_M_AlienRobot",
+        "backendType": "AthenaCharacter",
+        "name": "TBD"
+    },
+    {
+        "id": "CID_NPC_Athena_Commando_M_Fallback",
+        "backendType": "AthenaCharacter",
+        "name": "TBD"
+    },
+    {
+        "id": "CID_TBD_Athena_Commando_M_Turtleneck_EVENT_NOTFORSTORE",
+        "backendType": "AthenaCharacter",
+        "name": "TBD"
+    },
+    {
         "id": "BID_553_Seaweed_NIS9V",
         "backendType": "AthenaBackpack",
         "name": "Manta Pack"
