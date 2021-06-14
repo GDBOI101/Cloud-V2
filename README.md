@@ -61,11 +61,10 @@ If Version is above 13.40 Launch with ```Season 13-14```
 <br>
 If not launch with ```Season 1-13```
 <br>
-Sign in with your username ```@cloudfn.dev``` for example, ```GD@cloudfn.dev``` and then your Password
-<br>
 wait for the game to load and then you have your Private Server!
 <br>
 Enjoy :D!
+
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
 - [Website](https://cloudfn.dev/)
