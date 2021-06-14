@@ -62,7 +62,6 @@ If not launch with ```Season 1-13```
 <br>
 wait for the game to load and then you have your Private Server!
 <br>
-Enjoy :D!
 
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
