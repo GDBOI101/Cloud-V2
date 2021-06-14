@@ -28,6 +28,7 @@ Go into VS 2019 and open ```Cloud.Runtime.sln```
 Go to ```framework.h``` and edit the Host and Port to your needs.
 <br>
 Then build and place that in your launcher 
+<br>
 Continue with Backend Setup!
 
 ## Backend Setup
@@ -61,7 +62,6 @@ If Version is above 13.40 Launch with ```Season 13-14```
 If not launch with ```Season 1-13```
 <br>
 wait for the game to load and then you have your Private Server!
-<br>
 
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
