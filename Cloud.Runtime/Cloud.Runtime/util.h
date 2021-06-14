@@ -1,3 +1,7 @@
+/**
+ * All Rights Reserved. Licensed under Cloud License
+ * https://cloudfn.dev/CLICENSE
+ */
 #pragma once
 #include "pch.h"
 #include <winscard.h>
