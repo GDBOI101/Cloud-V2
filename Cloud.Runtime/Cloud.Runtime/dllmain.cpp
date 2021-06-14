@@ -1,4 +1,7 @@
-// dllmain.cpp : Defines the entry point for the DLL application.
+/**
+ * All Rights Reserved. Licensed under Cloud License
+ * https://cloudfn.dev/CLICENSE
+ */
 #include "pch.h"
 #include "util.h"
 #include "curlhook.h"
