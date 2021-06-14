@@ -39,9 +39,15 @@ LONG CESO(LPVOID Context, INT Tag, ...) {
 
 		if (url.find("epicgames.com") != std::string::npos) {
 			Url redirect(url);
+#ifdef CLOUD
+			redirect.scheme("https");
+			redirect.host(HOST);
+#endif // CLOUD
+#ifdef LOCAL
 			redirect.scheme("http");
 			redirect.host(HOST);
 			redirect.port(PORT);
+#endif //LOCAL
 			std::cout << url << "\n";
 			url = redirect.str();
 
