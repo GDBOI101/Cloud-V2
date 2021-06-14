@@ -45,7 +45,7 @@ open the folder in command prompt and run ```npm install```
 <br>
 Run ```start.bat``` In the Backend
 <br>
-Wait for it to show ```Servers Online (Version: {VERSION} Port: {PORT})``` once it does the Backend should be running!
+Wait for it to show ```Servers Online Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
 <br>
 If you have not already created an account make one by typing in a Username and Password in the Backend Console.
 <br>
@@ -61,7 +61,7 @@ If Version is above 13.40 Launch with ```Season 13-14```
 <br>
 If not launch with ```Season 1-13```
 <br>
-Sign in with your username @cloudfn.dev eg: ```GD@cloudfn.dev``` and your Password
+Sign in with your username @cloudfn.dev for example, ```GD@cloudfn.dev``` and then your Password
 <br>
 wait for the game to load and then you have your Private Server!
 <br>
