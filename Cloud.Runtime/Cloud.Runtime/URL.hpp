@@ -1,3 +1,7 @@
+/**
+ * All Rights Reserved. Licensed under Cloud License
+ * https://cloudfn.dev/CLICENSE
+ */
 #ifndef URL_HPP
 #define URL_HPP
 
