@@ -44,7 +44,7 @@ open the folder in command prompt and run ```npm install```
 ## How to use
 Run ```start.bat``` In the Backend
 <br>
-Wait for it to show ```Servers Online Version: 1.0.0 Port: 4495``` once it does the Backend should be running!
+Wait for it to show ```Servers Online (Version: 1.0.0 Port: 4495)``` once it does the Backend should be running!
 <br>
 If you have not already created an account make one by typing in a Username and Password in the Backend Console
 <br>
@@ -66,7 +66,7 @@ Enjoy :D!
 
 ## Information:
 - [Discord Server](https://discord.gg/MfXNpTg4EV)
-- [Website](https://cloudfn.dev/)
+- [Website](https://cloudfn.dev)
 
 ## Credits:
 GD: Backend and Cloud.Runtime
