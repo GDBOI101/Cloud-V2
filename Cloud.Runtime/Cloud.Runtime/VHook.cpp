@@ -1,3 +1,7 @@
+/**
+ * All Rights Reserved. Licensed under Cloud License
+ * https://cloudfn.dev/CLICENSE
+ */
 #include "pch.h"
 #include "VHook.h"
 
