@@ -1,3 +1,7 @@
+/**
+ * All Rights Reserved. Licensed under Cloud License
+ * https://cloudfn.dev/CLICENSE
+ */
 #pragma once
 //Settings
 #define HOST std::string("127.0.0.1") //If hosting on Local Client it should be set to "127.0.0.1". 
