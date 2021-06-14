@@ -45,9 +45,9 @@ open the folder in command prompt and run ```npm install```
 <br>
 Run ```start.bat``` In the Backend
 <br>
-Wait for it to show ```Servers Online Version: {VERSION} Port: {PORT}``` once it does the Backend should be running!
+Wait for it to show ```Servers Online Version: 1.0.0 Port: 4495``` once it does the Backend should be running!
 <br>
-If you have not already created an account make one by typing in a Username and Password in the Backend Console.
+If you have not already created an account make one by typing in a Username and Password in the Backend Console
 <br>
 Open The Launcher
 <br>
