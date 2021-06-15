@@ -51,7 +51,7 @@ If you have not already created an account make one by typing in a Username and 
 <br>
 Open The Launcher
 <br>
-In settings set your password and username to the username and password you used to create an account
+In settings set your Pass and Email to USERNAME@cloudfn.dev eg:```GD@cloudfn.dev``` and Pass is your Password
 <br>
 Also, Set the path to a Fortnite Version of 14.60 or below
 <br>
