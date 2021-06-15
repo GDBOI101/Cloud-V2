@@ -2,7 +2,7 @@
 
 <p align='center'>
     <a href='https://nodejs.org/en/download/' align='center'>
-        <img alt='NodeJS' src='https://media.discordapp.net/attachments/850045691481030706/851139810927575080/adobespark_adobespark.png'>
+        <img alt='NodeJS' src='https://cdn.discordapp.com/attachments/835302046592270446/842765465575096340/Free-Cloud-Wallpapers.jpg'>
     </a>
 </p>
 
