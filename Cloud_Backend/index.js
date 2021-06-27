@@ -51,7 +51,7 @@ server.listen(Port,() => {
             commoncore.save()
             var athena = new Athena({ id: id })
             athena.save()
-            console.log("User Created your email is: " + result.Username + "@cloudfn.dev")
+            console.log("User Created your email is: " + result.Username + "@Cloud.Dev")
         }
         if (User1.displayName == result.Username){
             console.log("User Found Continue!")
