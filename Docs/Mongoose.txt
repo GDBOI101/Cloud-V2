@@ -1,4 +1,4 @@
-CLOUD-HOSTED ONLY 
+CLOUD HOSTED ONLY 
 	 
 	Go to https://www.mongodb.com/cloud/atlas and signup and then sign in 
 	 
