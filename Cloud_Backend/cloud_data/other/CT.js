@@ -1,6 +1,6 @@
 const jwt = require("jsonwebtoken")
 const JWTInfo = require(`${__dirname}/JWT`)
-//test ig?
+//test?
 module.exports = async (req, res, next) => {
     //code to auto detect service
     var originService
