@@ -2,7 +2,7 @@
 
 <p align='center'>
     <a href='https://nodejs.org/en/download/' align='center'>
-        <img alt='NodeJS' src='https://cdn.discordapp.com/attachments/835302046592270446/842765465575096340/Free-Cloud-Wallpapers.jpg'>
+        <img alt='NodeJS' src='https://media.discordapp.net/attachments/853679837163159602/858856426038624266/Project_Cloud_but_its_centred.jpg?width=810&height=409'>
     </a>
 </p>
 
@@ -11,7 +11,7 @@ Welcome to Cloud V2 the **OPEN SOURCE** Fortnite Private Server!
 <br>
 This Project was made OS to help people **LEARN** how to make a Private Server **INSTEAD** of Copy and Pasting
 <br>
-Take the chance to **LEARN** so you dont end up being a Skid so you can **IMPROVE** Not stay the same as others!
+Take the chance to **LEARN** so you don't end up being a Skid so you can **IMPROVE** Not stay the same as others!
 <br>
 Enjoy :)
 <br>
@@ -34,7 +34,7 @@ Continue with Backend Setup!
 ## Backend Setup
 Read all of the Files in the Docs Folder to get the Backend started!
 <br>
-You may NOT host this for your own Server that is AGAINST OUR LICENCE only use it for youself! DONT REHOST
+You may NOT host this for your Server that is AGAINST OUR LICENCE only use it for yourself! DONT REHOST
 <br>
 Install [NodeJS](https://nodejs.org/en/download/).
 <br>
@@ -55,7 +55,7 @@ In settings set your Pass and Email to ```USERNAME@cloudfn.dev eg: GD@cloudfn.de
 <br>
 Also, Set the path to a Fortnite Version of 14.60 or below
 <br>
-Close out of settings and Press Launch
+Closeout of settings and Press Launch
 <br>
 If Version is above 13.40 Launch with ```Season 13-14```
 <br>
@@ -73,3 +73,5 @@ GD: Backend and Cloud.Runtime
 !Sky: Backend
 <br>
 Zinx: Launcher
+<br>
+irish: Being Cool
