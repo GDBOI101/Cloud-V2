@@ -163,7 +163,7 @@ namespace Cloud_Launcher_v2
             base.Show();
             process.Kill();
             process2.Kill();
-            MessageBox.Show("Thx for using cloud.");
+            MessageBox.Show("Thanks for using cloud!");
         }
     }
 }
