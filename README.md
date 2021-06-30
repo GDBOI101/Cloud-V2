@@ -18,16 +18,16 @@ Enjoy :)
 ## Launcher Setup
 Go into vs 2019 and open ```Cloud_Launcher.sln```
 <br>
-Build and go to the output folder that is where your .exe file is from now on that will be the root folder
+Build and go to the output folder that is where your .exe file (.\bin\x64\Release) is from now on that will be the root folder
 <br>
 Continue With DLL Setup
 
 ## DLL Setup
 Go into VS 2019 and open ```Cloud.Runtime.sln```
 <br>
-Go to ```framework.h``` and edit the Host and Port to your needs.
+Go to ```framework.h``` (.\Cloud.Runtime) and edit the Host and Port to your needs.
 <br>
-Then build and place that in your launcher 
+Then build and place that in your launcher (Main File.\Cloud_Launcher\bin\x64\Release)
 <br>
 Continue with Backend Setup!
 
@@ -38,9 +38,9 @@ You may NOT host this for your Server that is AGAINST OUR LICENCE only use it fo
 <br>
 Install [NodeJS](https://nodejs.org/en/download/).
 <br>
-Install [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
+Install ALL [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
 <br>
-open the folder in command prompt and run ```npm install```
+open the folder ```Cloud_Backend``` in command prompt and run ```npm install```
 
 ## How to use
 Run ```start.bat``` In the Backend
