@@ -68,7 +68,7 @@ wait for the game to load and then you have your Private Server!
 - [Website](https://cloudfn.dev)
 
 ## Credits:
-irish: Launcher, All Backend, All Frontend, basically everything and being cool
+irish: Launcher, All Backend, All Frontend
 <br>
 GD: Backend and Cloud.Runtime
 <br>
