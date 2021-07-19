@@ -43,6 +43,8 @@ Install [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click
 open the folder in command prompt and run ```npm install```
 
 ## How to use
+**LAUNCHER IS UNFINISHED ATM**
+<br>
 Run ```start.bat``` In the Backend
 <br>
 Wait for it to show ```Servers Online (Version: 1.0.0 Port: 4495)``` once it does the Backend should be running!
