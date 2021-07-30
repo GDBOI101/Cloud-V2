@@ -57,7 +57,7 @@ In settings set your Pass and Email to ```USERNAME@cloudfn.dev eg: GD@cloudfn.de
 <br>
 Also, Set the path to a Fortnite Version of idk or below
 <br>
-- [Download Old Launcher Here](https://github.com/GDBOI101/Cloud-V2/archive/44b56f50d58dc7ba976e46e0ee63b005b00314f3.zip)
+- [Download Old Launcher Here / files](https://github.com/GDBOI101/Cloud-V2/archive/44b56f50d58dc7ba976e46e0ee63b005b00314f3.zip)
 <br>
 wait for the game to load and then you have your Private Server!
 
