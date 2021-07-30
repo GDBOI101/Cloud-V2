@@ -13,7 +13,7 @@ namespace WindowsFormsApp1
         string chapter1EAC = "10ga222d803bh65851660E3d";
         //string chapter2 = ""; // i will add chapter 2 later
         internal const string ClientExecutable = "FortniteClient-Win64-Shipping.exe";
-        internal const string dll = "CloudC1.dll";
+        internal const string dll = "Cloud.dll";
     }
 
 }
