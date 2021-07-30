@@ -55,13 +55,9 @@ Open The Launcher
 <br>
 In settings set your Pass and Email to ```USERNAME@cloudfn.dev eg: GD@cloudfn.dev``` and Pass is your Password
 <br>
-Also, Set the path to a Fortnite Version of 14.60 or below
+Also, Set the path to a Fortnite Version of idk or below
 <br>
-Closeout of settings and Press Launch
-<br>
-If Version is above 13.40 Launch with ```Season 13-14```
-<br>
-If not launch with ```Season 1-13```
+- [Download Old Launcher Here](https://github.com/GDBOI101/Cloud-V2/archive/44b56f50d58dc7ba976e46e0ee63b005b00314f3.zip)
 <br>
 wait for the game to load and then you have your Private Server!
 
