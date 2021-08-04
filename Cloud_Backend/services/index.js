@@ -19,6 +19,12 @@ Date.prototype.addHours = function (h) {
     return this;
 }
 
+app.get("/", (req, res) => res.sendFile(path.join(__dirname, "/web/index.html")))
+
+app.use('/css', express.static(`${__dirname}/web/css`))
+
+app.use('/js', express.static(`${__dirname}/web/js`))
+
 const uniqueFilenames = {
     "DefaultGame.ini": "a22d837b6a2b46349421259c0a5411bf",
     "DefaultEngine.ini": "3460cbe1c57d4a838ace32951a4d7171"
