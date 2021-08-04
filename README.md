@@ -40,7 +40,7 @@ Install [NodeJS](https://nodejs.org/en/download/).
 <br>
 Install ALL [DotNet](https://dotnet.microsoft.com/download/dotnet/5.0/runtime) click x64.
 <br>
-open the folder ```Cloud_Backend``` in command prompt and run ```npm install```
+open the folder ```Cloud_Backend``` open up ```install.bat```
 
 ## How to use
 **LAUNCHER IS UNFINISHED ATM**
