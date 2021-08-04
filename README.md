@@ -72,5 +72,5 @@ irish: Launcher, All Backend, All Frontend
 <br>
 !Sky: Backend
 <br>
-Zinx: Launcher
+Zinx: Backend and Launcher
 
